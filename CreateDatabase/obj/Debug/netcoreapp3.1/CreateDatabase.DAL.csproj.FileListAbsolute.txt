@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\bin\Debug\netcoreapp3.1\CreateDatabase.DAL.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\bin\Debug\netcoreapp3.1\CreateDatabase.DAL.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\bin\Debug\netcoreapp3.1\CreateDatabase.DAL.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\bin\Debug\netcoreapp3.1\CreateDatabase.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\bin\Debug\netcoreapp3.1\CreateDatabase.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\obj\Debug\netcoreapp3.1\CreateDatabase.DAL.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\obj\Debug\netcoreapp3.1\CreateDatabase.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\obj\Debug\netcoreapp3.1\CreateDatabase.DAL.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\obj\Debug\netcoreapp3.1\CreateDatabase.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\obj\Debug\netcoreapp3.1\CreateDatabase.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\obj\Debug\netcoreapp3.1\CreateDatabase.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\CreateDatabase\CreateDatabase\obj\Debug\netcoreapp3.1\CreateDatabase.DAL.genruntimeconfig.cache
